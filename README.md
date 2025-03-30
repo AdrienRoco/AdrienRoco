@@ -24,7 +24,7 @@ I'm a 5th-year IT student at **Epitech**. Passionate about programming, networks
   Docker, JavaScript, TypeScript, C, Python, Shell/Bash, React, SQL
 
 - **Technologies & Tools:**
-  Git, REST APIs, Websockets, Cloudflare DNS & Workers, Windows, Linux (Desktop/Server), PC/Server assembly and management
+  Git, REST APIs, Websockets, Cloudflare DNS & Workers, Windows, Unraid server, Proxmox, Linux (Desktop/Server), PC/Server assembly and management
 
 - **Other Areas:**
   Network & Cybersecurity fundamentals
