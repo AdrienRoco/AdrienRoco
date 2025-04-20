@@ -1,6 +1,6 @@
 # Hi, I'm Adrien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a 5th-year IT student at **Epitech**. Passionate about programming, networks, and computers in general, I’m actively seeking a 6‑month internship starting in March 2025. I’m available for opportunities that challenge me to apply my technical skills and broaden my expertise.
+I'm a 5th-year IT student at **Epitech**. Passionate about programming, networks, and computers in general, I’m actively seeking a 6‑month internship starting April. I’m available for opportunities that challenge me to apply my technical skills and broaden my expertise.
 
 ---
 
