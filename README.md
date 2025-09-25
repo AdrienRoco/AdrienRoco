@@ -1,14 +1,14 @@
 # Hi, I'm Adrien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a 5th-year IT student at **Epitech**. Passionate about programming, networks, and computers in general, I’m actively seeking a 6‑month internship starting in March 2025. I’m available for opportunities that challenge me to apply my technical skills and broaden my expertise.
+I'm a recent IT graduate from **Epitech** with a Master's degree in Information Technology. Passionate about programming, networks, and computers in general, I'm actively seeking opportunities to apply my technical skills and broaden my expertise in a professional environment.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **Student Developer, Epitech**
-  _October 2018 – Present_
-  Pursuing the "Programme Grande École" in Information Technology (RNCP Level 7).
+- **Master's Degree in Information Technology, Epitech**
+  _2018 – 2025_
+  Completed the "Programme Grande École" in Information Technology (RNCP Level 7).
 
 - **Bachelor in Information Technology, Epitech Lyon**
   _2022_
@@ -32,6 +32,10 @@ I'm a 5th-year IT student at **Epitech**. Passionate about programming, networks
 ---
 
 ## 👨‍💻 Professional Experience
+
+- **Internship – IMfinity-group**
+  _June 2025 – November 2025_
+  Developed a web application from scratch for their recruitment needs using React and TypeScript.
 
 - **Internship – Observation Role, CERN**
   _April 2015_
